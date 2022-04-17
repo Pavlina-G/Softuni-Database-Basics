@@ -1,0 +1,2 @@
+ALTER TABLE employees
+MODIFY COLUMN middle_name VARCHAR(100) NOT NULL;
